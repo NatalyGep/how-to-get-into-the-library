@@ -9,3 +9,7 @@
 - [smoothl](https://code.s3.yandex.net/web-code/smoothly/index.html)
 - [wowjs](https://wowjs.uk/)
 - [lazyload](https://github.com/verlok/vanilla-lazyload)
+- [underscorejs](https://underscorejs.org/)
+- [backbonej](https://backbonejs.org/)
+- [lodash](https://lodash.com/)
+- [threejs](https://threejs.org/)
